@@ -1,0 +1,3 @@
+# input a number from user and print to screen weather it is even or odd. then, play again. 
+
+puts "lets play a game" 
